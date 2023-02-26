@@ -22,7 +22,7 @@
 <body>
   <div class="container">
     <h1 class="text-center mt-5 mb-4">Daftar Buah</h1>
-    <table class="table table-striped table-hover">
+    <table class="table table-striped table-hover table-dark">
       <thead class="thead-dark">
         <tr>
           <th>ID</th>
