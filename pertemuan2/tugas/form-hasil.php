@@ -7,6 +7,7 @@
 	<!-- Load Bootstrap CSS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
+	
 <body class="bg-dark p-3">
 	<div class="container">
 		<h2 class="text-white bg-dark p-2 rounded mb-4">Data Pendaftar</h2>
