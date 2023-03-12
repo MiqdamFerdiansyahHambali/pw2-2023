@@ -15,4 +15,4 @@
 			<h2>Mobile Legends Tier Checker - STTNF</h2>
 			<a href="home.php">Home</a> | <a href="form_tier_checker.php">Tier Checker</a> | <a href="">About</a> | <a href="">Login</a>
 			<hr />
-		</header>
+		</header> 
